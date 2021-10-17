@@ -1,4 +1,5 @@
-#Trang thương mại điện tử
+## Eshop
+Trang thương mại điện tử
 
 ## Tech Specification
 
@@ -8,7 +9,7 @@
 - Vietnam maps
 - Laravel filemanager
 
-## Features :
+## Features
 
 ====== FRONT-END =======
 
@@ -63,7 +64,7 @@ Many more....
 - Profile Settings
 
 
-## Screenshots :
+## Screenshots
 
 ![screencapture-e-shop-loc-2020-08-14-18_19_46](https://user-images.githubusercontent.com/29488275/90719631-a1940d00-e2d4-11ea-89a3-eb36960d687d.png)
 
@@ -73,7 +74,7 @@ Many more....
 
 ![screencapture-e-shop-loc-product-track-2020-08-14-18_51_07](https://user-images.githubusercontent.com/29488275/90719682-bbcdeb00-e2d4-11ea-8e4e-7d6bfab1c421.png)
 
-## Set up :
+## Set up 
 
 1. Clone the repo and cd into it
 2. composer install
