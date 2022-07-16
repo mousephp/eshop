@@ -10,7 +10,7 @@ Trang thương mại điện tử
 - Laravel filemanager
 
 ## Features
-
+<!--
 ====== FRONT-END =======
 
 - Responsive Layout
@@ -33,6 +33,7 @@ Trang thương mại điện tử
 many more......
 
 ======= ADMIN =======
+-->
 
 - Multi Auth 
 - Admin roles, permission
@@ -48,11 +49,13 @@ many more......
 - User Management
 - Coupon Management
 - ...
+- <!--
 - System config: email setting, info shop, maintain status,...
 - Line Chart & Pie chart ...
 - Generate order in pdf form...
 - Real time message & notification
 - Profile Settings
+-->
 Many more....
 
 
@@ -65,7 +68,7 @@ Many more....
 
 
 ## Screenshots
-
+<!--
 ![screencapture-e-shop-loc-2020-08-14-18_19_46](https://user-images.githubusercontent.com/29488275/90719631-a1940d00-e2d4-11ea-89a3-eb36960d687d.png)
 
 ![screencapture-e-shop-loc-blog-2020-08-14-18_36_21](https://user-images.githubusercontent.com/29488275/90719648-a8228480-e2d4-11ea-9c57-5ed7aef50e26.png)
@@ -73,7 +76,7 @@ Many more....
 ![screencapture-e-shop-loc-blog-detail-where-can-i-get-some-2020-08-14-18_43_01](https://user-images.githubusercontent.com/29488275/90719658-ace73880-e2d4-11ea-9cb2-13f2b3b0c4d2.png)
 
 ![screencapture-e-shop-loc-product-track-2020-08-14-18_51_07](https://user-images.githubusercontent.com/29488275/90719682-bbcdeb00-e2d4-11ea-8e4e-7d6bfab1c421.png)
-
+-->
 ## Set up 
 
 1. Clone the repo and cd into it
